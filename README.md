@@ -1,7 +1,6 @@
 # 아두이노 카페소음측정기                    
-언어 : html, php, c                                 
-소프트웨어 : Arduino IDE, mySQL                                 
-운영체제 : Windows 10                     
+-개발 환경/기술: VSC/ 아두이노, phpmyadmin, JavaScript, php, google chart API, kakao map API                             
+go to blog : https://yeowool0217.tistory.com/category/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C/JS%2CPHP%20-%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%B9%B4%ED%8E%98%EC%86%8C%EC%9D%8C%EC%B8%A1%EC%A0%95%EA%B8%B0                  
                                      
 아두이노 소음감지 센서와 와이파이 모듈을 사용했습니다.               
 반응형 웹(부트스트랩)을 사용해서 모바일에서도 사용이 가능하고                     
@@ -11,10 +10,4 @@
 ![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcDl7DV%2FbtqxNTWbMZS%2FaOUsc91kJXigJoFHdA30eK%2Fimg.png)                                
 ![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FtaaHU%2FbtqxPSaU7GH%2F0p1K5Yx21UzyOuRkTv6KV1%2Fimg.png)                                
 ![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWQuON%2FbtqxPTnoc8v%2FGmtdc2tHKtGuftXFwjSAkK%2Fimg.png)                                
-                                    
-아두이노-고감도 사운드센서 사용하기(https://yeowool0217.tistory.com/531?category=786747)                          
-아두이노-ESP8266 WiFi모듈 사용하기(1) (https://yeowool0217.tistory.com/532?category=786747)                              
-아두이노-ESP8266 WiFi모듈 사용하기(2) (https://yeowool0217.tistory.com/533?category=786747)                      
-아두이노-ESP8266 WiFi모듈 서버에 연결하기 (https://yeowool0217.tistory.com/534?category=786747)                                         
-아두이노-PHP와 DB사용하기 (https://yeowool0217.tistory.com/535?category=786747)                                          
-아두이노 카페소음측정기(완성) (https://yeowool0217.tistory.com/554?category=786747)                                     
+                                                                 
