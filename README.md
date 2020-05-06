@@ -1,7 +1,6 @@
 # 카페 소음 알림 App                  
 -개발 환경/기술: VSCode/ 아두이노, phpmyadmin, JavaScript, php, google chart API, kakao map API                             
-블로그 : https://yeowool0217.tistory.com/category/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C/%EC%B9%B4%ED%8E%98%20%EC%86%8C%EC%9D%8C%20%EC%95%8C%EB%A6%BC%20App            
-                                     
+                             
 아두이노 소음감지 센서와 와이파이 모듈을 사용했습니다.               
 반응형 웹을 사용해 모바일에서도 사용이 가능하고                     
 google chart API, kakao map API 를 사용해 시간별 소음, 측정기의 위치를 표시했습니다.                       
